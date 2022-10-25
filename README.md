@@ -57,3 +57,7 @@
 <a href= https://www.microsoft.com/el-gr/microsoft-365/project/project-management-software> <img width ='32px' src ='https://el.wizcase.com/wp-content/uploads/2020/12/MS_Project_Logo.png'> </a>
 <a href= https://teamgantt.com> <img width ='32px' src ='https://icons-for-free.com/iconfiles/png/512/gantt+management+project+statistics+teamgantt+icon-1320165721837538450.png'> </a>
 
+<h2>My Stats <img src = https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif width="32px" height="32px"> </h2>
+
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=VaggelisKarzas&hide_border=true&include_all_commits=true&show_icons=true&theme=midnight-purple" alt="VaggelisKarzas" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=VaggelisKarzas&show_icons=true&locale=en&layout=compact&hide_border=true&theme=midnight-purple&langs_count=7" alt="VaggelisKarzas" align = "center"/></p>
